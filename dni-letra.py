@@ -1,5 +1,6 @@
 def dnil(dni):
     # convert DNI to integer before '%'
+    #How can I do it with a list or aDictionary?
     let = ((int(dni)) % 23)
     if let == 0:
         return 'T'
