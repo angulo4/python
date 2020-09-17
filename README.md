@@ -3,4 +3,4 @@ Python sample projects
 
 Hi guys:
 
-Marius here, just starting with Github.
+Marius here, some Python code with simple solutions, as part of my learning.
